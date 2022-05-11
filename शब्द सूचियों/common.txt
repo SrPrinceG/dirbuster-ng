@@ -1,4 +1,10 @@
 0
+default
+home
+index
+menu
+main
+start
 00
 01
 02
